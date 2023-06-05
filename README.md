@@ -1,4 +1,4 @@
-# Hi. My name is Arthur :raised_hands:
+# Hi. My name is Arthur :wave:
 
 Constantly learning and exploring new front-end technologies, I am driven by a growth mindset, always seeking opportunities to improve my skills and stay at the forefront of industry advancements. As a front-end developer, I am dedicated to delivering visually striking, responsive, and user-centric web experiences that leave a lasting impact.
 
